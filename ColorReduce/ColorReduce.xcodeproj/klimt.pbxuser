@@ -1,0 +1,206 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* ColorReduce */;
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					679,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286450112;
+			PBXWorkspaceStateSaveDate = 286450112;
+		};
+		perUserProjectItems = {
+			7C0CA0B60EF9A8EE00913BF9 /* PBXTextBookmark */ = 7C0CA0B60EF9A8EE00913BF9 /* PBXTextBookmark */;
+			7C0CA0B70EF9A8EE00913BF9 /* PBXTextBookmark */ = 7C0CA0B70EF9A8EE00913BF9 /* PBXTextBookmark */;
+			7C0CA1230F0099B800913BF9 /* PBXTextBookmark */ = 7C0CA1230F0099B800913BF9 /* PBXTextBookmark */;
+			7C0CA1260F0099B800913BF9 /* PBXTextBookmark */ = 7C0CA1260F0099B800913BF9 /* PBXTextBookmark */;
+			7CBE4526110EDED600D7B18A /* PBXTextBookmark */ = 7CBE4526110EDED600D7B18A /* PBXTextBookmark */;
+			7CBE452A110FFDD800D7B18A /* PBXTextBookmark */ = 7CBE452A110FFDD800D7B18A /* PBXTextBookmark */;
+			7CBF63F11112E65300986C37 /* PBXTextBookmark */ = 7CBF63F11112E65300986C37 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* ColorReducePlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 938}}";
+			sepNavSelRange = "{954, 0}";
+			sepNavVisRange = "{640, 1298}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* ColorReducePlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 6090}}";
+			sepNavSelRange = "{13304, 0}";
+			sepNavVisRange = "{10236, 1550}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		sourceDirectories = (
+		);
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	7C0CA0B60EF9A8EE00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* ColorReducePlugIn.m */;
+		name = "ColorReducePlugIn.m: 345";
+		rLen = 0;
+		rLoc = 18454;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 0;
+	};
+	7C0CA0B70EF9A8EE00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* ColorReducePlugIn.h */;
+		name = "ColorReducePlugIn.h: 27";
+		rLen = 0;
+		rLoc = 743;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 372;
+	};
+	7C0CA0EE0EFA22E900913BF9 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	7C0CA1230F0099B800913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0CA0EE0EFA22E900913BF9 /* stdlib.h */;
+		name = "stdlib.h: 175";
+		rLen = 17;
+		rLoc = 5778;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 5237;
+	};
+	7C0CA1260F0099B800913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0CA0EE0EFA22E900913BF9 /* stdlib.h */;
+		name = "stdlib.h: 175";
+		rLen = 17;
+		rLoc = 5778;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 5237;
+	};
+	7CBE4526110EDED600D7B18A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* ColorReducePlugIn.h */;
+		name = "ColorReducePlugIn.h: 32";
+		rLen = 0;
+		rLoc = 954;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 640;
+	};
+	7CBE452A110FFDD800D7B18A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* ColorReducePlugIn.m */;
+		name = "ColorReducePlugIn.m: 388";
+		rLen = 0;
+		rLoc = 16816;
+		rType = 0;
+		vrLen = 1003;
+		vrLoc = 9686;
+	};
+	7CBF63F11112E65300986C37 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* ColorReducePlugIn.m */;
+		name = "ColorReducePlugIn.m: 312";
+		rLen = 0;
+		rLoc = 13304;
+		rType = 0;
+		vrLen = 1550;
+		vrLoc = 10236;
+	};
+	8D5B49AC048680CD000E48DA /* ColorReduce */ = {
+		activeExec = 0;
+	};
+}

@@ -1,0 +1,189 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* Habituation */;
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					818,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 283840805;
+			PBXWorkspaceStateSaveDate = 283840805;
+		};
+		perUserProjectItems = {
+			7C0C9F930EF78E2D00913BF9 /* PBXTextBookmark */ = 7C0C9F930EF78E2D00913BF9 /* PBXTextBookmark */;
+			7C0CA0830EF8FD2300913BF9 /* PBXTextBookmark */ = 7C0CA0830EF8FD2300913BF9 /* PBXTextBookmark */;
+			7C40247710EAE867007B294C /* PBXTextBookmark */ = 7C40247710EAE867007B294C /* PBXTextBookmark */;
+			7CD450AB10EB11B10078740D /* PBXTextBookmark */ = 7CD450AB10EB11B10078740D /* PBXTextBookmark */;
+			7CD450AC10EB11B10078740D /* PBXTextBookmark */ = 7CD450AC10EB11B10078740D /* PBXTextBookmark */;
+			7CD450AD10EB11B10078740D /* PBXTextBookmark */ = 7CD450AD10EB11B10078740D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* HabituationPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 672}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{27, 870}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+			sepNavWindowFrame = "{{71, 315}, {750, 558}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* HabituationPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 6426}}";
+			sepNavSelRange = "{13616, 0}";
+			sepNavVisRange = "{13017, 975}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		sourceDirectories = (
+		);
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	7C0C9F930EF78E2D00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* HabituationPlugIn.m */;
+		name = "HabituationPlugIn.m: 139";
+		rLen = 11;
+		rLoc = 4056;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 3598;
+	};
+	7C0CA0830EF8FD2300913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* HabituationPlugIn.h */;
+		name = "HabituationPlugIn.h: 44";
+		rLen = 63;
+		rLoc = 1184;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 354;
+	};
+	7C40247710EAE867007B294C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* HabituationPlugIn.h */;
+		name = "HabituationPlugIn.h: 43";
+		rLen = 0;
+		rLoc = 1183;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 354;
+	};
+	7CD450AB10EB11B10078740D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* HabituationPlugIn.m */;
+		name = "HabituationPlugIn.m: 428";
+		rLen = 0;
+		rLoc = 13616;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 13017;
+	};
+	7CD450AC10EB11B10078740D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* HabituationPlugIn.m */;
+		name = "HabituationPlugIn.m: 428";
+		rLen = 0;
+		rLoc = 13616;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 13017;
+	};
+	7CD450AD10EB11B10078740D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* HabituationPlugIn.h */;
+		name = "HabituationPlugIn.h: 20";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 27;
+	};
+	8D5B49AC048680CD000E48DA /* Habituation */ = {
+		activeExec = 0;
+	};
+}

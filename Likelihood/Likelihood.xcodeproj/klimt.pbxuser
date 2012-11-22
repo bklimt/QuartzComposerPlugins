@@ -1,0 +1,381 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* Likelihood */;
+		breakpoints = (
+			7C3862E10EF3AFFF00AFD41F /* LikelihoodPlugIn.m:21 */,
+		);
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					733,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					693,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 283769347;
+			PBXWorkspaceStateSaveDate = 283769347;
+		};
+		perUserProjectItems = {
+			7C0C9FF20EF7AE6000913BF9 /* PBXTextBookmark */ = 7C0C9FF20EF7AE6000913BF9 /* PBXTextBookmark */;
+			7C0CA03B0EF8F1EA00913BF9 /* PBXTextBookmark */ = 7C0CA03B0EF8F1EA00913BF9 /* PBXTextBookmark */;
+			7C0CA0400EF8F1EA00913BF9 /* PBXTextBookmark */ = 7C0CA0400EF8F1EA00913BF9 /* PBXTextBookmark */;
+			7C0CA0480EF8F26C00913BF9 /* PBXTextBookmark */ = 7C0CA0480EF8F26C00913BF9 /* PBXTextBookmark */;
+			7C0CA11C0F0099B300913BF9 /* PBXTextBookmark */ = 7C0CA11C0F0099B300913BF9 /* PBXTextBookmark */;
+			7C0CA11D0F0099B300913BF9 /* PBXTextBookmark */ = 7C0CA11D0F0099B300913BF9 /* PBXTextBookmark */;
+			7C1A356610E9FA480078823E /* PBXTextBookmark */ = 7C1A356610E9FA480078823E /* PBXTextBookmark */;
+			7C38629E0EF3A50000AFD41F /* PBXTextBookmark */ = 7C38629E0EF3A50000AFD41F /* PBXTextBookmark */;
+			7C38629F0EF3A50000AFD41F /* PBXTextBookmark */ = 7C38629F0EF3A50000AFD41F /* PBXTextBookmark */;
+			7C3862AF0EF3A50000AFD41F /* PBXTextBookmark */ = 7C3862AF0EF3A50000AFD41F /* PBXTextBookmark */;
+			7C3863000EF3B38400AFD41F /* PlistBookmark */ = 7C3863000EF3B38400AFD41F /* PlistBookmark */;
+			7C3863020EF3B38400AFD41F /* PlistBookmark */ = 7C3863020EF3B38400AFD41F /* PlistBookmark */;
+			7C3863370EF4693B00AFD41F /* PBXTextBookmark */ = 7C3863370EF4693B00AFD41F /* PBXTextBookmark */;
+			7C38633C0EF4693B00AFD41F /* PBXTextBookmark */ = 7C38633C0EF4693B00AFD41F /* PBXTextBookmark */;
+			7C50A4A30F92C76200414CF5 /* PBXTextBookmark */ = 7C50A4A30F92C76200414CF5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16AA5C440A7EEE7300888E31 /* Likelihood_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 552}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 50}";
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* LikelihoodPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 630}}";
+			sepNavSelRange = "{634, 818}";
+			sepNavVisRange = "{0, 1301}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+			sepNavWindowFrame = "{{97, 294}, {750, 558}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* LikelihoodPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 4844}}";
+			sepNavSelRange = "{467, 12190}";
+			sepNavVisRange = "{0, 1053}";
+			sepNavWindowFrame = "{{78, 315}, {750, 558}}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		sourceDirectories = (
+		);
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	7C0C9FF20EF7AE6000913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0C9FF30EF7AE6000913BF9 /* CGColor.h */;
+		name = "CGColor.h: 21";
+		rLen = 13;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 1685;
+		vrLoc = 104;
+	};
+	7C0C9FF30EF7AE6000913BF9 /* CGColor.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColor.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColor.h;
+		sourceTree = "<absolute>";
+	};
+	7C0C9FF70EF7AE6000913BF9 /* CGColor.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColor.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColor.h;
+		sourceTree = "<absolute>";
+	};
+	7C0CA03B0EF8F1EA00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0CA03C0EF8F1EA00913BF9 /* stdlib.h */;
+		name = "stdlib.h: 223";
+		rLen = 6;
+		rLoc = 7425;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 6738;
+	};
+	7C0CA03C0EF8F1EA00913BF9 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	7C0CA0400EF8F1EA00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0CA0410EF8F1EA00913BF9 /* stdlib.h */;
+		name = "stdlib.h: 223";
+		rLen = 6;
+		rLoc = 7425;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 6738;
+	};
+	7C0CA0410EF8F1EA00913BF9 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	7C0CA0480EF8F26C00913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C0C9FF70EF7AE6000913BF9 /* CGColor.h */;
+		name = "CGColor.h: 79";
+		rLen = 20;
+		rLoc = 3236;
+		rType = 0;
+		vrLen = 1552;
+		vrLoc = 2543;
+	};
+	7C0CA11C0F0099B300913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* LikelihoodPlugIn.m */;
+		name = "LikelihoodPlugIn.m: 19";
+		rLen = 12190;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 0;
+	};
+	7C0CA11D0F0099B300913BF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16AA5C440A7EEE7300888E31 /* Likelihood_Prefix.pch */;
+		name = "Likelihood_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 50;
+		vrLoc = 0;
+	};
+	7C1A356610E9FA480078823E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* LikelihoodPlugIn.h */;
+		name = "LikelihoodPlugIn.h: 25";
+		rLen = 818;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 0;
+	};
+	7C38629E0EF3A50000AFD41F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* LikelihoodPlugIn.m */;
+		name = "LikelihoodPlugIn.m: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 0;
+	};
+	7C38629F0EF3A50000AFD41F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* LikelihoodPlugIn.h */;
+		name = "LikelihoodPlugIn.h: 11";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	7C3862AF0EF3A50000AFD41F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16AA5C440A7EEE7300888E31 /* Likelihood_Prefix.pch */;
+		name = "Likelihood_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 50;
+		vrLoc = 0;
+	};
+	7C3862E10EF3AFFF00AFD41F /* LikelihoodPlugIn.m:21 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 16BA95410A7EB2EB001E4983 /* LikelihoodPlugIn.m */;
+		functionName = "-destroy";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 21;
+		modificationTime = 250851332.09089;
+		state = 2;
+	};
+	7C3863000EF3B38400AFD41F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/klimt/Desktop/Likelihood/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7C3863020EF3B38400AFD41F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/klimt/Desktop/Likelihood/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7C3863370EF4693B00AFD41F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C3863380EF4693B00AFD41F /* CGColorSpace.h */;
+		name = "CGColorSpace.h: 161";
+		rLen = 18;
+		rLoc = 7182;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 6771;
+	};
+	7C3863380EF4693B00AFD41F /* CGColorSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColorSpace.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h;
+		sourceTree = "<absolute>";
+	};
+	7C38633C0EF4693B00AFD41F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C38633D0EF4693B00AFD41F /* CGColorSpace.h */;
+		name = "CGColorSpace.h: 78";
+		rLen = 27;
+		rLoc = 2518;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 6639;
+	};
+	7C38633D0EF4693B00AFD41F /* CGColorSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColorSpace.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h;
+		sourceTree = "<absolute>";
+	};
+	7C50A4A30F92C76200414CF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* LikelihoodPlugIn.h */;
+		name = "LikelihoodPlugIn.h: 25";
+		rLen = 818;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 0;
+	};
+	8D5B49AC048680CD000E48DA /* Likelihood */ = {
+		activeExec = 0;
+	};
+}
